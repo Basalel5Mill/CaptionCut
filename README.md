@@ -1,10 +1,22 @@
-# Caption Cut FCPX Extension
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/330639c0-248c-489f-8422-09fbef5cfda8" alt="Captioncut" width="100"/> 
+</p>
+
+<p align="center">
+  <strong>Caption Cut FCPX Extension</strong>
+</p>
 
 ## Description
 
 Caption Cut is a Final Cut Pro Workflow Extension designed to automatically generate captions from your audio files. Simply provide an MP3, choose your language and AI model, select a Motion Template, and Caption Cut uses Whisper AI to transcribe the audio and create styled title captions directly in your FCPX project. Customize the look with font, size, and color options for seamless integration.
 
+[Download Caption Cut](https://basalel.gumroad.com/l/hieqr)
+
+
 ## Features
+
+![Configure](https://github.com/user-attachments/assets/705be0e9-33d9-415d-affd-3c1b2f059045)
+
 
 * **Automatic Transcription:** Uses the Whisper AI engine to convert speech from MP3 files into text captions.
 * **Multi-Language Support:** Select from a wide range of languages for transcription.
@@ -13,6 +25,10 @@ Caption Cut is a Final Cut Pro Workflow Extension designed to automatically gene
 * **Customizable Appearance:** Adjust Font, Size, Color, and Text Width for captions within the extension.
 * **Text Formatting:** Option to automatically split transcribed text into lines based on word count (1, 2, or 3 words per line).
 * **Direct FCPX Import:** Sends the generated caption titles (as FCPXML) directly back to Final Cut Pro for easy import.
+* 
+![Process](https://github.com/user-attachments/assets/5c2777ab-8ed3-4a48-b901-d243dc6abefe)
+
+
 
 ## Requirements
 
