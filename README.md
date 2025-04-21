@@ -22,16 +22,6 @@ Caption Cut is a Final Cut Pro Workflow Extension designed to automatically gene
 * Whisper AI Models (These can be downloaded as needed from within the extension UI)
 * Internet connection (for downloading AI models).
 
-## Installation
-
-1.  Install the main "Caption Cut" application (`.app` file).
-2.  Run the main "Caption Cut" application at least once. This ensures the necessary Motion Templates are copied to your system.
-3.  Enable the "Caption Cut" extension within Final Cut Pro:
-    * Go to macOS System Settings > Privacy & Security > Extensions.
-    * Under "Added Extensions" or "Workflow Extensions", find "Caption Cut" and ensure it is checked/enabled.
-    * Restart Final Cut Pro if it was open during installation/enabling.
-
-## How to Use
 
 1.  Open your project in Final Cut Pro.
 2.  Click the Extensions icon in the FCPX toolbar (looks like a puzzle piece) and select "Caption Cut".
@@ -50,8 +40,3 @@ Caption Cut is a Final Cut Pro Workflow Extension designed to automatically gene
 8.  Final Cut Pro will prompt you to import the generated FCPXML file containing the caption titles. Choose your desired library/event.
 9.  The captions will appear as titles on the timeline in your FCPX project.
 
-## Notes
-
-* The main Caption Cut application (`.app`) primarily serves as an installer for the Motion Templates and provides basic information. The core captioning functionality is within the Final Cut Pro extension.
-* Ensure the Motion Templates are correctly installed in the `~/Movies/Motion Templates.localized/Titles.localized/Caption Cut/` directory. The app attempts to do this automatically.
-* Processing time varies depending on the length of your audio file and the selected AI model size.
