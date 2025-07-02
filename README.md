@@ -12,6 +12,10 @@ Caption Cut is a Final Cut Pro  Extension designed to automatically generate cap
 
 [Download Caption Cut](https://basalel.gumroad.com/l/hieqr)
 
+[Download Caption Cut Pro](https://www.captioncut.com/)
+
+
+
 
 ## Features
 
